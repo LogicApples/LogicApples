@@ -9,7 +9,7 @@
 
 You can find me on Discord: LogicApples 🎄#2549
 
-- I’m currently working on [Spot]([Website not yet online]) which is a Discord bot for all of your Moderation needs.
+- I’m currently working on [Spot] (Website not yet online) which is a Discord bot for all of your Moderation needs.
 
 - Reach me on [Discord!](https://discord.gg/ShRxDPgVR3)
 
