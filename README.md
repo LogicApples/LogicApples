@@ -1,5 +1,5 @@
-###I am a [] year old developer ;) 
-###You can find me on Discord: LogicApples 🎄#2549
+I am a [] year old developer ;) 
+You can find me on Discord: LogicApples 🎄#2549
 
 <!--
 **LogicApples/LogicApples** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
