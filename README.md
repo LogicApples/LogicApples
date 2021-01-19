@@ -1,4 +1,4 @@
-### I am a [] year old developer ;) 
+### Hi. I am Logic. A [] year old developer ;) 
 You can find me on Discord: LogicApples 🎄#2549
 
 <!--
