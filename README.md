@@ -1,5 +1,5 @@
 ### Hi. I am Logic. A [] year old developer ;) 
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1be06648-09f3-44e7-bb14-a0e450b117d1/deploy-status)](https://app.netlify.com/sites/fervent-benz-af97e7/deploys)
 <a href="https://discord.gg/ShRxDPgVR3">
   <img align="left" alt="Spot's Support Server" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
