@@ -9,7 +9,7 @@
 
 You can find me on Discord: LogicApples 🎄#2549
 
-- I’m currently working on [Spot](https://www.spotmod.ga) which is a Discord bot for all of your Moderation needs.
+- I’m currently working on [Polar](https://www.polarbot.ga), a Discord bot for all your Moderation, Fun and Music needs.
 
 - Reach me on [Discord!](https://discord.gg/ShRxDPgVR3)
 
