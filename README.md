@@ -6,7 +6,7 @@
 <br />
 <br />
 
-You can find me on Discord: LogicApples 🎄#2549
+You can find me on Discord: LogicApples#6969
 
 - I’m currently working on [Polar](https://www.polarbot.ga), a Discord bot for all your Moderation, Fun and Music needs.
 
